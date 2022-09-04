@@ -7,3 +7,4 @@ node_modules
 .env
 dist
 archive
+.DS_Store
