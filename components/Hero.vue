@@ -74,3 +74,12 @@ export default {
   },
 };
 </script>
+
+<style>
+#top {
+  background: url("/images/house-of-the-dragon-bg-v4.webp");
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+</style>
